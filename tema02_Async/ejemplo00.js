@@ -4,5 +4,4 @@
     });
     console.log(await myPromise) ;
   }
-  
   mostrar();
